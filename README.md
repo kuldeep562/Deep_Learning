@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Tasks – Gujarat University (2024)
+# 🧠 Deep Learning Tasks
 
 This repository brings together all practical deep learning assignments completed as part of Gujarat University's Computer Science coursework. Each task explores foundational to intermediate concepts in deep learning, using libraries such as NumPy, TensorFlow, and PyTorch.
 
